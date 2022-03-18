@@ -1,0 +1,12 @@
+body{
+    background-color: #e9eae6;
+}
+table{
+    border-color: purple;
+    border-width: 5px;
+    height: 80vh;
+}
+#tab{
+    width: 100vw;
+    margin: auto;
+}
